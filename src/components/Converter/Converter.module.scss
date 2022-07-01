@@ -1,0 +1,22 @@
+
+.converter {
+  position: relative;
+  margin: 150px auto 0 auto;
+  max-width: 50%;
+  height: 400px;
+  background-color: #FFFFFF;
+  border-radius: 10px;
+  box-shadow: 0 0 20px 10px rgba(0,0,0, .3);
+}
+
+.home{
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.progress{
+  position: absolute;
+  top:40%;
+  left: 40%;
+}
